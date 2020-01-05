@@ -8,5 +8,6 @@
 </head>
 <body>
     <h1> Mencoba git remote</h1>
+    <p> lorem .....................  jasjajsajsjajsajsj</p>
 </body>
 </html>
